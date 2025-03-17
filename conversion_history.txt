@@ -1,0 +1,16 @@
+Fahrenheit to Celsius: 98.00 -> 36.67
+Celsius to Fahrenheit: 37.00 -> 98.60
+Celsius to Fahrenheit: 37.00 -> 98.60
+Fahrenheit to Celsius: 37.00 -> 2.78
+Celsius to Fahrenheit: 37.50 -> 99.50
+Celsius to Kelvin: 112.00 -> 385.15
+Celsius to Fahrenheit: 37.60 -> 99.68
+Celsius to Fahrenheit: 37.60 -> 99.68
+Celsius to Fahrenheit: 37.60 -> 99.68
+Celsius to Fahrenheit: 37.60 -> 99.68
+Kelvin to Fahrenheit: 256.00 -> 1.13
+Fahrenheit to Celsius: 25.00 -> -3.89
+Kelvin to Celsius: 37.00 -> -236.15
+Celsius to Fahrenheit: 37.60 -> 99.68
+Celsius to Fahrenheit: 36.70 -> 98.06
+Celsius to Fahrenheit: 36.70 -> 98.06
